@@ -1,3 +1,7 @@
+# Steam Revenue Metrics
+An app to calculate total, projected revenues of steam games by genre
+Supported by the Steam API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
